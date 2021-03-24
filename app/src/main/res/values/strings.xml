@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tapptic Kanjis</string>
+    <string name="title_item_detail">Kanji Detail</string>
+    <string name="kanji_descriptor">Kanji</string>
+    <string name="error_title">Erreur de connexion serveur</string>
+    <string name="error_retry_message">Voulez-vous réessayer ?</string>
+    <string name="retry">Réessayer</string>
+    <string name="abort">Annuler</string>
+    <string name="retry_with_connexion">Connexion annulée. Veuillez réessayer une fois connecté à internet</string>
+
+</resources>
